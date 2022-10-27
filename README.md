@@ -19,6 +19,8 @@
 <img alt="boot" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-cmd-960&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
