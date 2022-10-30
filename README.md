@@ -1,12 +1,14 @@
 ### Olá! Eu sou Mateus Abel seja bem-vindo ao meu perfil 👋
 
+### Conecta-se comigo
+
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusabel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuIOrAyKXQYabbvGrqRWAgg%3D%3D)
 [![Linkedim](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mateus.matero.1/)
 
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-cmd-960&show_icons=true&theme=dracula)
 
-## Tecnologias que uso
+## Tecnologias que uso no dia-a-dia
 
 <div style="display:inline-block">
 <img alt="htlm5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
